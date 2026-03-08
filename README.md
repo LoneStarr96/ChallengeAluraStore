@@ -34,9 +34,9 @@ Loja 4 deve ser vendida
 
 ## Justificativa:
 
-• Menor faturamento entre todas as lojas. 
-• Tem o menor frete entre as lojas e ainda sim exibe o pior faturamento.
-• Tem a segunda pior avaliação entre os clientes.
+Menor faturamento entre todas as lojas. 
+Tem o menor frete entre as lojas e ainda sim exibe o pior faturamento.
+Tem a segunda pior avaliação entre os clientes.
 
 
 ## 🔗 Notebook no Google Colab
