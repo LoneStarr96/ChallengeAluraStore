@@ -30,13 +30,15 @@ Este projeto faz parte do Challenge de Data Science da Alura, onde realizamos um
 
 ## Recomendação
 
-Loja 4 deve ser vendida
+Loja 4 deve ser vendida.
 
 ## Justificativa:
 
-Menor faturamento entre todas as lojas. 
-Tem o menor frete entre as lojas e ainda sim exibe o pior faturamento.
-Tem a segunda pior avaliação entre os clientes.
+•Menor faturamento entre todas as lojas. 
+
+•Tem o menor frete entre as lojas e ainda sim exibe o pior faturamento.
+
+•Tem a segunda pior avaliação entre os clientes.
 
 
 ## 🔗 Notebook no Google Colab
@@ -55,7 +57,7 @@ O código completo da análise, incluindo tratamento de dados, cálculos e visua
 ## 📁 Estrutura do Projeto
 
 ```
-challenge-alura/
+challengeAluraStore/
 │
 ├── notebook/
 │   └── ChallengeAluraStore.ipynb          
