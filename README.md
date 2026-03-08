@@ -26,7 +26,24 @@ Este projeto faz parte do Challenge de Data Science da Alura, onde realizamos um
 
 • Produtos
 - Mais vendido geral: **TV Led UHD 4K**   
-- Menos vendido geral: **Cubo mágico** 
+- Menos vendido geral: **Cubo mágico**
+
+##  Gráficos
+
+Nesta seção são apresentados **3 gráficos** utilizados para apoiar a análise e a tomada de decisão:
+
+ Gráfico **1**
+ <p align="center">
+  <img alt="info" src="imagens/faturamentototal.png" width="100%">
+</p>
+ Gráfico **2**
+<p align="center">
+  <img alt="info" src="imagens/mediaavaliacao.png" width="100%">
+</p>
+ Gráfico **3**
+<p align="center">
+  <img alt="info" src="fretemedio.png" width="100%">
+</p>
 
 ## Recomendação
 
